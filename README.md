@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krishnatejakk
-- 👀 I’m interested in Scalable, Data Efficient and Robust Machine Learning
-- 🌱 I’m currently learning various intricacies and new methods in deep learning.
+- 👋 Hi, I’m Krishnateja Killamsetty
+- 👀 I’m interested in the research of scalable, data efficient and robust machine learning.
+- 🌱 I’m currently kepping myself busy with learning various intricacies and developments in machine learning. 
 - 📫 You can reach me on my email of krishnateja.killamsetty@utdallas.edu
 
 <!---
