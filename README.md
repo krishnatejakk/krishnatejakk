@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishnateja Killamsetty
 - 👀 I’m interested in the research of scalable, data efficient and robust machine learning.
-- 🌱 I’m currently kepping myself busy with learning various intricacies and developments in machine learning. 
+- 🌱 I’m currently keeping myself busy with learning various intricacies and developments in machine learning. 
 - 📫 You can reach me at krishnateja.killamsetty@utdallas.edu
 
 <!---
