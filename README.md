@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krishnateja Killamsetty
+- 👋 Hi, I am Krishnateja Killamsetty, a third year PhD student at University of Texas at Dallas.
 - 👀 I’m interested in the research of scalable, data efficient and robust machine learning.
 - 🌱 I’m currently keeping myself busy with learning various intricacies and developments in machine learning. 
 - 📫 You can reach me at krishnateja.killamsetty@utdallas.edu
